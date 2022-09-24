@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# otra-rama
+Mi primer repositorio.
 
 
 author: Angel Barraza
